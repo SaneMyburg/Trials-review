@@ -1,0 +1,27 @@
+{
+  "name": "trials-review",
+  "version": "1.0.0",
+  "description": "The objective of this project it to learn how to review, and use the HTML and CSS skills I've learnt in previous lessons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaneMyburg/Trials-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaneMyburg/Trials-review/issues"
+  },
+  "homepage": "https://github.com/SaneMyburg/Trials-review#readme",
+  "devDependencies": {
+    "hint": "^7.1.2",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
